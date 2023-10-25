@@ -1,6 +1,6 @@
 {
   "index_name": "bioradindex",
-  "start_urls": ["https://biorad.netlify.app/"],
+  "start_urls": ["https://wiki.decentwh.site/"],
   "rateLimit": 8,
   "maxDepth": 10,
   "selectors": {
